@@ -11,8 +11,8 @@ OfflineFirst
 
 Descripción: 
 La idea es hacer acercar el concepto de offline first a aquellos que
-no lo conocen o estén interesados en mejorar
-la experiencia de sus usuarios.
+no lo conocen o estén interesados en mejorar la experiencia de sus
+usuarios.
 
 Disertante:
 Guille Paz (@pazguille)
